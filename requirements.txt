@@ -1,0 +1,8 @@
+streamlit
+faiss-cpu 
+faiss-gpu
+numpy
+pandas
+sentence-transformers
+easyocr
+Pillow
